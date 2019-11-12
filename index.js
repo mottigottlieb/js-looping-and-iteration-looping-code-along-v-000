@@ -7,6 +7,10 @@
         writeCards(["Ada", "Brendan", "Ali"], "birthday");
 
 function writeCards(name, event) {
+  for (let i = 0; i < writeCards; i++) {
+        
+    return writeCards;
+  }
   
   
   
